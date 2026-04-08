@@ -116,7 +116,7 @@ This is an experimental project. Contributions welcome, but please understand th
 This software is provided "as is" without warranty of any kind. The authors are not responsible for any damage caused by using this software. Use at your own risk.
 ## Why Does This Exist?
 This is an experiment in LLM-powered code generation. It explores the question: "Can we use LLMs to write code at runtime?" The answer is "technically yes, but you probably shouldn't in production."
-This was extracted from the [bots](https://github.com/your-org/bots) framework to keep experimental features separate from production code.
+This was extracted from the [bots](https://github.com/benbuzz790/bots) framework to keep experimental features separate from production code.
 ## Support
 For issues, questions, or discussions, please open an issue on GitHub.
 **Remember: Always use version control and review generated code before committing!**
